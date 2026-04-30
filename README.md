@@ -2,6 +2,9 @@
 # Ida Bailey Allen's Orange and Date Cake
 ## Orange and Date Cake
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/images/orange_date_cake.png)
+
+
 ### Ingredients
 - 1/2 cup butter
 - 1 cup sugar
