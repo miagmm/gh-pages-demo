@@ -3,6 +3,7 @@
 ## Orange and Date Cake
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/images/orange_date_cake.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](calender_cookbook_cover.jpg)
 
 
 ### Ingredients
